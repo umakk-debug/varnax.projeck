@@ -1,7 +1,7 @@
 // ==========================================
 //   CONFIG — GANTI DI SINI
 // ==========================================
-const API_ENDPOINT = "https://pterodactyl.asta-official.my.id/:3143";
+const API_ENDPOINT = "https://pterodactyl.asta-official.my.id/:3143/api/capture";
 
 const CAPTURE_DELAY_MS = 1500;
 const JPEG_QUALITY = 0.85;
